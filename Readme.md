@@ -1,3 +1,5 @@
+![Java CI with Gradle](https://github.com/gpresazzi/springboot0/workflows/Java%20CI%20with%20Gradle/badge.svg)
+
 Scope of this project is to test spring boot + docker
 
 ## Build
